@@ -51,6 +51,7 @@ namespace Basic_Calculator
             else
             {
                 Console.WriteLine("Thanks....");
+                Console.WriteLine("Trrial");
             }
         }
     }
