@@ -14,7 +14,7 @@ namespace Basic_Calculator
             Console.WriteLine("2.Subtraction (-)");
             Console.WriteLine("3.Multiplication (x)");
             Console.WriteLine("4.Division (/)");
-            Console.WriteLine("0.More Options");
+            Console.WriteLine("0.Exit");
 
             Console.WriteLine("\n");
             Console.WriteLine("Enter your choice:");
@@ -35,7 +35,7 @@ namespace Basic_Calculator
                     Calculation.calculate.Divide();
                     break;
                 case 0:         //For More Options
-                    Console.WriteLine("This Part Is Under Development.........");
+                    System.Environment.Exit(0);
                     break;
                 default:        //Default
                     Console.WriteLine("Wrong Choice");
