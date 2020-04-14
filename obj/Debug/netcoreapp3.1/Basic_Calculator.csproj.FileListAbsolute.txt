@@ -9,3 +9,5 @@ D:\C#\C# Programs\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.Asse
 D:\C#\C# Programs\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.AssemblyInfo.cs
 D:\C#\C# Programs\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.dll
 D:\C#\C# Programs\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.pdb
+D:\C#\C# Programs\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.csproj.CoreCompileInputs.cache
+D:\C#\C# Programs\Basic_Calculator\obj\Debug\netcoreapp3.1\Basic_Calculator.genruntimeconfig.cache
